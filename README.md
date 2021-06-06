@@ -10,6 +10,36 @@
 
 Verification of off-line signatures is one of the most challenging tasks in biometrics and document forensic science. In this thesis, we deal with Convolutional Siamese Network model which is capable of doing verification of Bengali and Hindi Signature. One particular advantage of Siamese Neural networks is the ability to generalize to new classes that it has not been trained on, and in fact, the number of classes that it is expected to support does not have to be known at training time. Also, the architecture commonly known as the Siamese network helped reduce the amount of training data needed for its implementation. The twin networks with shared weights were trained to learn feature space where similar observations are placed in proximity. Writer Independent verification model has been designed where an accuracy of 91.82% has been obtained for Bengali Dataset and 84% for Hindi Dataset
 
+### Dataset Samples
+
+#### Bengali
+
+
+ <img src="Figures/Dataset Sample/BENGALI.png"/>
+ <img src="Figures/Dataset Sample/BENGALI1.png"/> 
+ 
+#### Hindi
+
+ <img src="Figures/Dataset Sample/HINDI.png"/> 
+ <img src="Figures/Dataset Sample/HINDI1.png"/> 
+
+
 ### Architecture
 
-<img src=""/>
+<img src="Figures/architecture.png" width="650"/>
+
+### Prediction
+
+#### Bengali
+
+<img src="Figures/Result Sample/RESULTB1.png"/>
+<img src="Figures/Result Sample/RESULTB2.png"/>
+
+#### Hindi
+
+<img src="Figures/Result Sample/RESULTH1.png"/>
+<img src="Figures/Result Sample/RESULTH2.png"/>
+
+Read the <a href="">Bachelor's Thesis</a> in <img src="https://img.shields.io/badge/Latex-%40overleaf.com-brightgreen"> format. <br>
+Run the <a href="CODE.ipynb"><code>Jupyter Notebook</code></a> to do the experiment on your own.
+
