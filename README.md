@@ -41,5 +41,6 @@ Verification of off-line signatures is one of the most challenging tasks in biom
 <img src="Figures/Result Sample/RESULTH2.png"/>
 
 Read the <a href="">Bachelor's Thesis</a> in <img src="https://img.shields.io/badge/Latex-%40overleaf.com-brightgreen"> format. <br>
+
 Run the <a href="CODE.ipynb"><code>Jupyter Notebook</code></a> to do the experiment on your own.
 
