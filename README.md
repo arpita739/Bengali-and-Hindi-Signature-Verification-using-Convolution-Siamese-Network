@@ -6,4 +6,10 @@
 <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
 
+### Abstract
+
 Verification of off-line signatures is one of the most challenging tasks in biometrics and document forensic science. In this thesis, we deal with Convolutional Siamese Network model which is capable of doing verification of Bengali and Hindi Signature. One particular advantage of Siamese Neural networks is the ability to generalize to new classes that it has not been trained on, and in fact, the number of classes that it is expected to support does not have to be known at training time. Also, the architecture commonly known as the Siamese network helped reduce the amount of training data needed for its implementation. The twin networks with shared weights were trained to learn feature space where similar observations are placed in proximity. Writer Independent verification model has been designed where an accuracy of 91.82% has been obtained for Bengali Dataset and 84% for Hindi Dataset
+
+### Architecture
+
+<img src=""/>
